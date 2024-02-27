@@ -29,5 +29,8 @@
   },
   "resolutions": {
 	 "sharp": "0.32.6"
-  }
+  },
+	"stackblitz": {
+		"startCommand": ""
+	}
 }
