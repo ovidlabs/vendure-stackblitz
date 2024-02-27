@@ -26,5 +26,8 @@
   "devDependencies": {
     "concurrently": "8.2.2",
     "ts-node": "10.9.2"
+  },
+  "resolutions": {
+	 "sharp": "0.32.6"
   }
 }
